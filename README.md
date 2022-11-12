@@ -33,3 +33,18 @@ Apenas testes
   }
   ```
 </details>
+<details>
+<summary><b>Item 3</b></summary>
+
+_Markdown is valid, but add empty lines to separate from the HTML tags._
+
+- Bullet
+- Points
+
+```json
+{
+    "codeblock": "demo"
+}
+```
+
+</details>
