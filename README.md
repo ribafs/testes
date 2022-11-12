@@ -48,3 +48,8 @@ _Markdown is valid, but add empty lines to separate from the HTML tags._
 ```
 
 </details>
+<details><summary>Item com Sub menu</summary><blockquote>
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
